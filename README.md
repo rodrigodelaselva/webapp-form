@@ -18,6 +18,6 @@ Inputs:
 <h4>HTML</h4>
 <h4>JAVA</p>
 <h4>JAKARTA EE</h4>
-<h4e>BOOTSTRAP</h4>
+<h4>BOOTSTRAP</h4>
 
-<h5>TOMCAT / pom.xml not included </he>
+<h5>TOMCAT / pom.xml not included </h5>
