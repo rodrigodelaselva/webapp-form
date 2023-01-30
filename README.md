@@ -14,3 +14,10 @@ Inputs:
 
 
 ![Readme_webapp](https://user-images.githubusercontent.com/13223880/215372288-cc040808-0438-45e9-8d6b-a9dbb79d7ddc.png)
+
+<h4>HTML</h4>
+<h4>JAVA</p>
+<h4>JAKARTA EE</h4>
+<h4e>BOOTSTRAP</h4>
+
+<h5>TOMCAT / pom.xml not included </he>
